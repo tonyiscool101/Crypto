@@ -1,0 +1,6 @@
+feather-format
+numpy
+pandas
+pyarrow
+matplotlib
+pandas-ta
