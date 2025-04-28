@@ -6,3 +6,4 @@ matplotlib
 pandas-ta
 ta
 scipy
+tqdm
