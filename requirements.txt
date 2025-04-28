@@ -5,3 +5,4 @@ pyarrow
 matplotlib
 pandas-ta
 ta
+scipy
